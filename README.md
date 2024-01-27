@@ -1,5 +1,5 @@
 # Uncreative
-A create mod modpack all about weapons and cannons. Not very creative!
+A Create mod modpack all about weapons and cannons. Not very creative!
 There is lots of stuff and content in this pack made by some awesome creators!
 In this pack you could build cannons, construct a lightsaber, even shoot lazers out of your hands! Yep you heard that right!
 
