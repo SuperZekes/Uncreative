@@ -3,7 +3,7 @@
 <img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg">
 
 A Create mod modpack all about weapons and cannons. Not very creative!
-There is lots of stuff and content in this pack made by some awesome creators!
+There is lots of mods and content in this pack made by some awesome creators!
 In this pack you could build cannons, construct a lightsaber, even shoot lazers out of your hands! Yep you heard that right!
 
 ## Features
