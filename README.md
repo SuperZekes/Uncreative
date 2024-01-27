@@ -1,6 +1,6 @@
 # Uncreative
 
-<img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg">
+<a href="https://modrinth.com/modpack/uncreative"><img alt="modrinth" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_vector.svg"></a>
 
 A Create mod modpack all about weapons and cannons. Not very creative!
 There is lots of mods and content in this pack made by some awesome creators!
